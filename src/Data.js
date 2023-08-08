@@ -1,0 +1,58 @@
+export const Client = [
+  {
+    id: 1,
+    title: "Nazmus Shakib",
+    designation: "MD & CEO",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dEQsQrQQXYvSRD3fOMdSSMZKBkQMehQ6VA&usqp=CAU",
+  },
+  {
+    id: 2,
+    title: "Parvez Islam",
+    designation: "Web Developer",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://i.postimg.cc/Twx4Nc5G/324746112-689016269585737-722264118100352225-n.jpg",
+  },
+  {
+    id: 3,
+    title: "Emilia Clerk",
+    designation: "Manager",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHracXTONxgzV1UJRG2uY_ASGMjl3zARN0A&usqp=CAU",
+  },
+  {
+    id: 4,
+    title: "Aisha Mim",
+    designation: "Digital Marketer",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpC7Z8e0CMsY7v1teTEFQt_vKeSAC-KG032xKg0O-rocjFh-n9d1g1QkYKXKJWI7QZdg&usqp=CAU",
+  },
+  {
+    id: 5,
+    title: "Cristian Torres",
+    designation: "Designer",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzZr0v-AWSOiGUhG0D_blOg6yHQN_DK5CNQ&usqp=CAU",
+  },
+  {
+    id: 6,
+    title: "Taylor Green",
+    designation: "Client of Company",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0Ho26_EYNYR6aKExZqnO4jMdkY9EDqMbmA&usqp=CAU",
+  },
+  {
+    id: 7,
+    title: "Tawhid",
+    designation: "Designer",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP84RSsFreD5pRQN_N6wvUCdnqI_893eNoiQ&usqp=CAU",
+  },
+  {
+    id: 8,
+    title: "Jhohan",
+    designation: "Digital Marketer",
+    text: "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio obcaecati, quasi ab deserunt consequatur laboriosam natus sed nam repellat quae?",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxX4MGcxKfIuj1opw1fYCsJnWqfKgO7lYd_w&usqp=CAU",
+  },
+];

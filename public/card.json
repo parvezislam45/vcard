@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name":"Full Customized Card",
+        "img":"https://5.imimg.com/data5/WD/ZG/BU/SELLER-1407191/3d-business-cards-500x500.jpg",
+        "price":"1,599.00",
+        "offer":"1,799.00"
+    },
+
+    {
+        "id":2,
+        "name":"Semi Customized Card",
+        "img":"https://5.imimg.com/data5/ANDROID/Default/2023/2/KF/HC/JE/185095063/product-jpeg-500x500.jpg",
+        "price":"1,099.00",
+        "offer":"1,299.00"
+    },
+
+    {
+        "id":3,
+        "name":"Full Customized Card 2",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxq4WO_-KseVRYcr4CLz8LM84uWOnfn41Dz4qtdIh_U4D1BvcsiDDwrdL6cd6OI9InJE&usqp=CAU",
+        "price":"1,599.00৳",
+        "offer":"1,799.00"
+    },
+
+    {
+        "id":4,
+        "name":"VCard Branded Card",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpqFCE8gi0LeBJXj4IghCZqE4Wzm5oU28MQ&usqp=CAU",
+        "price":"1,099.00",
+        "offer":"1,299.00"
+    },
+
+    {
+        "id":5,
+        "name":"Full Customized Card",
+        "img":"https://5.imimg.com/data5/WD/ZG/BU/SELLER-1407191/3d-business-cards-500x500.jpg",
+        "price":"1,599.00৳",
+        "offer":"1,799.00"
+    },
+
+    {
+        "id":6,
+        "name":"Full Customized Card2",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXxq4WO_-KseVRYcr4CLz8LM84uWOnfn41Dz4qtdIh_U4D1BvcsiDDwrdL6cd6OI9InJE&usqp=CAU",
+        "price":"1,099.00",
+        "offer":"1,299.00"
+    },
+
+    {
+        "id":7,
+        "name":"Semi Customized Card",
+        "img":"https://5.imimg.com/data5/ANDROID/Default/2023/2/KF/HC/JE/185095063/product-jpeg-500x500.jpg",
+        "price":"1,599.00৳",
+        "offer":"1,799.00"
+    },
+
+    {
+        "id":8,
+        "name":"VCard Branded Card",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpqFCE8gi0LeBJXj4IghCZqE4Wzm5oU28MQ&usqp=CAU",
+        "price":"1,099.00",
+        "offer":"1,299.00"
+    }
+]
